@@ -1,0 +1,8 @@
+For the week one homework, we were supposed to make a statement that would print out "/ \ // \\ /// \\\"
+In order to print that out, I did the following:
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("/\\//\\\\///\\\\\\");
+    }
+}
